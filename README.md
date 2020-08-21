@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Dipesh
-
+<!--
 [Website](https://kcdipesh.com.np) |
 [Twitter](https://twitter.com/kcdipesh) |
 [Linkedin](https://www.linkedin.com/in/kcdipesh)
-
+-->
 
 [![Twitter: kcdipesh](https://img.shields.io/twitter/follow/kcdipesh?style=social)](https://twitter.com/kcdipesh)
 [![Linkedin: kcdipesh](https://img.shields.io/badge/kcdipesh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kcdipesh/)](https://www.linkedin.com/in/kcdipesh/)
