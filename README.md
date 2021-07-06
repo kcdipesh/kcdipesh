@@ -12,16 +12,14 @@
 
 
 ## :sunglasses: About me
-I am Dipesh KC and I live in Kathmandu, Nepal.
-
-I am a Computer Engineer and a full stack software developer, currently working as CTO at Spark Technology. I always try to keep up with the latest technologies.
+Full Stack Developer. Passionate about coding and problem-solving. 
 
 ## :rocket: A little more about me... 
 
 ```javascript
 const kcDipesh = {
     code: ["Javascript", "PHP", "Python"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    askMeAbout: ["web dev", "tech",],
     technologies: {
         frontEnd: {
             html: ["HTML"],
